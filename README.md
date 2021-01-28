@@ -10,3 +10,4 @@
  проигнорированы конфигурационные файлы .terraformrc, terraform.rc
 
 
+new line
